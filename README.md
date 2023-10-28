@@ -37,14 +37,14 @@ Feel free to explore my portfolio to learn more about my background, experiences
 I appreciate any contributions and feedback. If you would like to contribute, please follow these steps:
 
 1. Fork the project
-2. Create your feature branch: `git checkout -b feature/YourFeature`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/YourFeature`
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch 
 5. Open a pull request
 
 ## License
 
-This project is licensed under the [MIT](LICENSE) License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT](License.txt) License - see the [LICENSE](License.txt) file for details.
 
 ## Contact
 
