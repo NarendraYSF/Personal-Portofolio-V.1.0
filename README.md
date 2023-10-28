@@ -51,8 +51,8 @@ This project is licensed under the [MIT](LICENSE) License - see the [LICENSE](LI
 Feel free to reach out to me through the following channels:
 
 - Email: your-email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- Twitter: [Your Twitter Profile](https://twitter.com/your-profile)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/narendraysf)
+- Twitter: [Your Twitter Profile](https://twitter.com/narendraysf)
 
 ## Acknowledgements
 
