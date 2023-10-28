@@ -1,0 +1,56 @@
+/* =================================================================== */
+/* Blue #4169e1
+====================================================================== */
+
+.page-title h2 span:first-child::before,
+.page-title h2 span:nth-child(2),
+.divider .fa,
+.bl-main>section.topleft .bl-box .ah-headline.clip .ah-words-wrapper,
+.skills .resume-content i,
+.badges h3 span,
+.bl-main>section:nth-child(4).bl-expand .contact .leftside h6,
+.bl-main>section:nth-child(4).bl-expand .contact .rightside .input-field .prefix.active,
+body.blog .meta i,
+body.blog .meta a,
+.widget.recent-posts .entry-title a:hover,
+.sidebar ul.nav-tabs li.active a, 
+.sidebar ul.nav-tabs li:hover a,
+body.blog .btn.back-homepage,
+body.blog article h4:hover,
+body.blog.dark .sidebar ul.nav-tabs li a:hover,
+body.blog.dark .widget.recent-posts .entry-title a:hover,
+.comments-list .comment-reply:hover,
+body.blog .btn.back,
+.personal-info a.btn.btn-blog,
+div.bl-panel-items nav span.bl-previous-work,
+div.bl-panel-items nav span.bl-next-work,
+div.bl-panel-items nav span.bl-icon-close {
+	color:#4169e1;
+}
+
+.readmore.btn,
+body.blog .btn.back-homepage:hover,
+.personal-info a.btn,
+span.separator,
+.resume-list-item-inner,
+.carousel .indicators .indicator-item.active,
+#bl-work-items>div a div,
+div.bl-panel-items a.btn,
+.bl-main>section:nth-child(4).bl-expand .contact .rightside form button,
+.widget-tags ul > li a:hover,
+body.blog .pagination li.active,
+.comments-form button,
+.comments-form button:hover,
+.comments-form button:focus,
+.comments-form button:active,
+body.blog .btn.back:hover,
+.personal-info a.btn.btn-blog:hover  {
+	background: #4169e1;
+}
+.resume-card-name {
+	color: #4169e1 !important;
+}
+body.blog .btn.back ,
+.personal-info a.btn.btn-blog {
+	border:1px solid #4169e1;
+}
