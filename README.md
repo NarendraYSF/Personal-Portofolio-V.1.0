@@ -44,7 +44,7 @@ I appreciate any contributions and feedback. If you would like to contribute, pl
 
 ## License
 
-This project is licensed under the [MIT](License.txt) License - see the [LICENSE](License.txt) file for details.
+This project is licensed under the [MIT](license.txt) License
 
 ## Contact
 
