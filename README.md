@@ -7,7 +7,7 @@ Welcome to my portfolio repository! This portfolio showcases my experiences and 
 
 ## Preview
 
-![Portfolio Preview](My-Site/images/Screenshot-2023-10-28-132828.png)
+![Portfolio Preview](preview.png)
 
 ## Features
 
