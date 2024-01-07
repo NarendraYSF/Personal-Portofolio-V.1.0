@@ -51,8 +51,8 @@ This project is licensed under the [MIT](license.txt) License
 Feel free to reach out to me through the following channels:
 
 - Email: rendra.narendrayusuf@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/narendraysf)
-- Twitter: [Your Twitter Profile](https://twitter.com/narendraysf)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/narendrayusufk/)
+- Twitter: [My Twitter Profile](https://twitter.com/narendraysf)
 
 ## Acknowledgements
 
