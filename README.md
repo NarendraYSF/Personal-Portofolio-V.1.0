@@ -1,30 +1,56 @@
-# 2.5D Conceptual Design - Figma
+# My Portfolio
 
-## Overview
+Welcome to my portfolio repository! This portfolio showcases my experiences and projects developed from 2019 to the present. The website also features a customizable dark and light theme that you can switch on the left side of the browser.
 
-This repository contains a 2.5D conceptual design created using Figma. The design explores the fusion of 2D and 3D elements to create a visually engaging and immersive user experience. This README provides information on the project, its structure, and how to explore the design.
+## Preview
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Folder Structure](#folder-structure)
-- [Design Preview](#design-preview)
-- [Contributing](#contributing)
-- [License](#license)
+![Portfolio Preview](preview.png)
 
 ## Features
 
-- **2.5D Design:** Explore the innovative combination of 2D and 3D design elements to create a unique and captivating user interface.
-- **Figma:** The design is created using Figma, a collaborative interface design tool.
-- **Responsive:** The design is optimized for various screen sizes and devices.
+- Detailed information about my work experiences and skills
+- Showcasing a collection of projects completed from 2019 to the present
+- Customizable dark and light theme for better user experience
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript (for theme switching functionality)
 
 ## Getting Started
 
-To explore the 2.5D conceptual design, follow these steps:
+To get a local copy up and running, follow these simple steps:
 
-1. Clone the repository to your local machine:
+1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
+2. Open the `index.html` file in your preferred web browser.
 
-   ```bash
-   git clone https://github.com/your-username/2.5d-conceptual-design.git
+## Usage
+
+Feel free to explore my portfolio to learn more about my background, experiences, and the projects I've worked on.
+
+## Contributions
+
+I appreciate any contributions and feedback. If you would like to contribute, please follow these steps:
+
+1. Fork the project
+2. Create your feature branch: `git checkout -b feature/YourFeature`
+3. Commit your changes: `git commit -m 'Add some feature'`
+4. Push to the branch: `git push origin feature/YourFeature`
+5. Open a pull request
+
+## License
+
+This project is licensed under the [MIT](LICENSE) License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+Feel free to reach out to me through the following channels:
+
+- Email: rendra.narendrayusuf@gmail.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/narendrayusufk/)
+- Twitter: [Your Twitter Profile]((https://twitter.com/nrndrysf))
+
+## Acknowledgements
+
+I would like to thank [Name] for inspiring me to create this portfolio.
