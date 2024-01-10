@@ -1,60 +1,85 @@
-# Personal-Portofolio-V.1.0
-Newly optimized and even more mobile friendly
+<!DOCTYPE html>
+<html lang="en">
 
-# My Portfolio
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2.5D Conceptual Design - Figma</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
 
-Welcome to my portfolio repository! This portfolio showcases my experiences and projects developed from 2019 to the present. The website also features a customizable dark and light theme that you can switch on the left side of the browser.
+        h1 {
+            color: #333;
+        }
 
-## Preview
+        img {
+            max-width: 100%;
+            height: auto;
+        }
 
-![Portfolio Preview](preview.png)
+        pre {
+            background-color: #f4f4f4;
+            padding: 10px;
+            border-radius: 5px;
+            overflow: auto;
+        }
+    </style>
+</head>
 
-## Features
+<body>
 
-- Detailed information about my work experiences and skills
-- Showcasing a collection of projects completed from 2019 to the present
-- Customizable dark and light theme for better user experience
+    <h1>2.5D Conceptual Design - Figma</h1>
 
-## Technologies Used
+    <h2>Overview</h2>
+    <p>This repository contains a 2.5D conceptual design created using Figma. The design explores the fusion of 2D and 3D elements to create a visually engaging and immersive user experience.</p>
 
-- HTML
-- CSS
-- JavaScript (for theme switching functionality)
+    <h2>Features</h2>
+    <ul>
+        <li><strong>2.5D Design:</strong> Explore the innovative combination of 2D and 3D design elements to create a unique and captivating user interface.</li>
+        <li><strong>Figma:</strong> The design is created using Figma, a collaborative interface design tool.</li>
+        <li><strong>Responsive:</strong> The design is optimized for various screen sizes and devices.</li>
+    </ul>
 
-## Getting Started
+    <h2>Getting Started</h2>
+    <ol>
+        <li>Clone the repository to your local machine:
+            <pre>git clone https://github.com/your-username/2.5d-conceptual-design.git</pre>
+        </li>
+        <li>Open the <code>index.html</code> file in your web browser to view the design.</li>
+    </ol>
 
-To get a local copy up and running, follow these simple steps:
+    <h2>Folder Structure</h2>
+    <p>The project follows a simple folder structure:</p>
+    <ul>
+        <li><code>assets:</code> Contains all the necessary assets used in the design.</li>
+        <li><code>css:</code> Holds the CSS files for styling the HTML.</li>
+        <li><code>js:</code> Includes any JavaScript files required for interactive features.</li>
+        <li><code>index.html:</code> The main HTML file for rendering the design.</li>
+    </ul>
 
-1. Clone the repository: `git clone [https://github.com/NarendraYSF/Personal-Portofolio-V.1.0.git]`
-2. Open the `index.html` file in your preferred web browser.
+    <h2>Design Preview</h2>
+    <img src="/assets/design-preview.png" alt="Design Preview">
 
-## Usage
+    <p><em>Caption: A sneak peek into the 2.5D conceptual design.</em></p>
 
-Feel free to explore my portfolio to learn more about my background, experiences, and the projects I've worked on.
+    <h2>Contributing</h2>
+    <p>Contributions are welcome! Feel free to fork the repository and submit pull requests for any improvements or features.</p>
+    <ol>
+        <li>Fork the repository</li>
+        <li>Create a new branch (<code>git checkout -b feature/new-feature</code>)</li>
+        <li>Make changes and commit them (<code>git commit -m 'Add new feature'</code>)</li>
+        <li>Push the changes to the branch (<code>git push origin feature/new-feature</code>)</li>
+        <li>Open a pull request</li>
+    </ol>
 
-## Contributions
+    <h2>License</h2>
+    <p>This project is licensed under the <a href="LICENSE">MIT License</a>. Feel free to use, modify, and distribute the code as per the terms of the license.</p>
 
-I appreciate any contributions and feedback. If you would like to contribute, please follow these steps:
+    <p>Enjoy exploring the 2.5D conceptual design! If you have any questions or suggestions, feel free to open an issue or reach out to the project maintainers.</p>
 
-1. Fork the project
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch 
-5. Open a pull request
+</body>
 
-## License
-
-This project is licensed under the [MIT](license.txt) License
-
-## Contact
-
-Feel free to reach out to me through the following channels:
-
-- Email: rendra.narendrayusuf@gmail.com
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/narendrayusufk/)
-- Twitter: [My Twitter Profile](https://twitter.com/narendraysf)
-
-## Acknowledgements
-
-I would like to thank Contributors, for inspiring me to create this portfolio.
-
+</html>
