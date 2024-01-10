@@ -41,7 +41,7 @@ I appreciate any contributions and feedback. If you would like to contribute, pl
 
 ## License
 
-This project is licensed under the [MIT](LICENSE) License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT](license.txt) License - see the [LICENSE](license.txt) file for details.
 
 ## Contact
 
