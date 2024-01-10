@@ -1,36 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>2.5D Conceptual Design - Figma</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-
-        h1 {
-            color: #333;
-        }
-
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border-radius: 5px;
-            overflow: auto;
-        }
-    </style>
-</head>
-
-<body>
-
     <h1>2.5D Conceptual Design - Figma</h1>
 
     <h2>Overview</h2>
@@ -79,7 +46,3 @@
     <p>This project is licensed under the <a href="LICENSE">MIT License</a>. Feel free to use, modify, and distribute the code as per the terms of the license.</p>
 
     <p>Enjoy exploring the 2.5D conceptual design! If you have any questions or suggestions, feel free to open an issue or reach out to the project maintainers.</p>
-
-</body>
-
-</html>
