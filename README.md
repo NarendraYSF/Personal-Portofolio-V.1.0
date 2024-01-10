@@ -22,7 +22,7 @@ Welcome to my portfolio repository! This portfolio showcases my experiences and 
 
 To get a local copy up and running, follow these simple steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
+1. Clone the repository: `git clone [https://github.com/your-username/your-repository.git](https://github.com/NarendraYSF/Personal-Portofolio-V.1.0.git)`
 2. Open the `index.html` file in your preferred web browser.
 
 ## Usage
