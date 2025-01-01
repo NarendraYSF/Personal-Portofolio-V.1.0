@@ -50,7 +50,3 @@ Feel free to reach out to me through the following channels:
 - Email: rendra.narendrayusuf@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/narendrayusufk/)
 - Twitter: [Your Twitter Profile]((https://twitter.com/nrndrysf))
-
-## Acknowledgements
-
-I would like to thank [Name] for inspiring me to create this portfolio.
